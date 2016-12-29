@@ -1,4 +1,3 @@
-#hellow world java program
 
 public class hello {
 
